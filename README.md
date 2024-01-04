@@ -3,7 +3,7 @@
 ### Ferramentas
 
 - Kali Linux
-- setoolkit
+- Setoolkit 
 
 ### Configurando o Phishing no Kali Linux
 
@@ -16,6 +16,6 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+### Resultados
 
-![Alt text](./passwd.png "Optional title")
+![Screenshot_2024-01-03_20_26_52](https://github.com/BrenoZanetti/cibersecurity-desafio-phishing/assets/137457738/62867308-5e48-49d6-8cea-7257d930076c)
